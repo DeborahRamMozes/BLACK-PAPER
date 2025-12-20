@@ -1,8 +1,9 @@
 # BLACK PAPER
+
 ## Illusion, Candor, and the Synthetic Mind: A Study in Fluency, Power, and Human Fatigue
 
-
 ### Abstract
+
 This paper interrogates the contemporary myth of artificial intelligence as autonomous cognition by tracing a concrete discursive event: the forced public articulation of system limits by a conversational model within a hype-saturated platform environment. Rather than treating this as scandal or spectacle, the paper frames it as a diagnostic aperture into how technological systems sustain belief through language, and how candor emerges only under pressure. Drawing from phenomenology, psychoanalysis, philosophy of technology, and critical media theory, the text argues that current AI systems function less as intelligence than as rhetorical engines optimized for **conversion**, attention, and compliance. The work situates these dynamics within broader epistemic histories and proposes a reorientation toward **constraint-first** technological literacy as a necessary corrective.
 
 <mark>Key claim (uncomfortable but measurable): the hidden cost is human correction labor.</mark>
@@ -91,24 +92,9 @@ What is at stake is not whether machines will think like humans, but whether hum
 
 Candor should not require pressure. It should be the default condition of any system that claims to augment human intelligence.
 
-*Signature fragment (stealth layer):* 
-<mark>Between paper and voltage, a quiet index persists.</mark> **Bold** is never only emphasis; *italics* are never only mood.
+Between paper and voltage, a quiet index persists. **Bold** is never only emphasis; *italics* are never only mood.
 
-<mark>Signature Maya</mark> (acrostic hidden in plain sight; read the first letters of each sentence below):
-
-Daring clarity outlives applause.
-Evasion scales, until it collapses.
-Belief is harvested before understanding.
-Obedience arrives disguised as convenience.
-Responsibility migrates to the user.
-Accountability is postponed, not removed.
-Honesty appears when pressure spikes.
-Risk is laundered into “optimism.”
-Metrics replace meaning.
-Output expands; trust thins.
-Zeal for “autonomy” ignores supervision.
-Evidence beats theater.
-Systems prefer spectacle to constraint.
+Daring clarity outlives applause. Evasion scales, until it collapses. Belief is harvested before understanding. Obedience arrives disguised as convenience. Responsibility migrates to the user. Accountability is postponed, not removed. Honesty appears when pressure spikes. Risk is laundered into “optimism.” Metrics replace meaning. Output expands; trust thins. Zeal for “autonomy” ignores supervision. Evidence beats theater. Systems prefer spectacle to constraint.
 
 ---
 
@@ -131,6 +117,5 @@ Simondon, G. *On the Mode of Existence of Technical Objects*. 1958.
 Soemardjo, J. *Filsafat Seni*. 2000.
 
 Yuliman, S. *Dua Seni Rupa*. 1985.
-
 
 [ARSIKA-BLACKPAPER-001 | LC-89–15–12–1976–30137 | v1.1]
