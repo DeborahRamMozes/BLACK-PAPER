@@ -91,3 +91,28 @@ Make haste, slowly.
 ---
 
 [ARSIKA-BLACKPAPER-006 | LC-89–15–12–1976–30137 | v6.0]
+
+## References
+Arendt, H. (1958). *The human condition*. University of Chicago Press.
+
+Benjamin, W. (2008). *The work of art in the age of its technological reproducibility and other writings on media* (M. W. Jennings, B. Doherty, & T. Y. Levin, Eds.). Harvard University Press. (Original work published 1936)
+
+Braverman, H. (1974). *Labor and monopoly capital: The degradation of work in the twentieth century*. Monthly Review Press.
+
+Ellul, J. (1964). *The technological society* (J. Wilkinson, Trans.). Knopf. (Original work published 1954)
+
+Franklin, U. M. (1999). *The real world of technology*. House of Anansi Press.
+
+Illich, I. (1973). *Tools for conviviality*. Harper & Row.
+
+Mumford, L. (1967). *The myth of the machine: Technics and human development*. Harcourt, Brace & World.
+
+Polanyi, K. (2001). *The great transformation: The political and economic origins of our time*. Beacon Press. (Original work published 1944)
+
+Sennett, R. (2008). *The craftsman*. Yale University Press.
+
+Simondon, G. (2017). *On the mode of existence of technical objects* (C. Malaspina & J. Rogove, Trans.). University of Minnesota Press. (Original work published 1958)
+
+Winner, L. (1980). Do artifacts have politics? *Daedalus, 109*(1), 121–136.
+
+Zuboff, S. (2019). *The age of surveillance capitalism: The fight for a human future at the new frontier of power*. PublicAffairs.
