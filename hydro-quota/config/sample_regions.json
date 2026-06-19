@@ -1,0 +1,31 @@
+{
+  "regions": [
+    {
+      "id": "low_water_region",
+      "label": "Low WUE / Low Stress Region",
+      "WUE_L_per_kWh": 0.12,
+      "PUE": 1.15,
+      "EWF_L_per_kWh": 0.55,
+      "water_stress_index": 0.20,
+      "available_water_budget_L": 0.10
+    },
+    {
+      "id": "medium_water_region",
+      "label": "Medium WUE / Medium Stress Region",
+      "WUE_L_per_kWh": 0.90,
+      "PUE": 1.22,
+      "EWF_L_per_kWh": 0.75,
+      "water_stress_index": 0.50,
+      "available_water_budget_L": 0.08
+    },
+    {
+      "id": "high_water_region",
+      "label": "High WUE / High Stress Region",
+      "WUE_L_per_kWh": 1.80,
+      "PUE": 1.28,
+      "EWF_L_per_kWh": 1.00,
+      "water_stress_index": 0.85,
+      "available_water_budget_L": 0.05
+    }
+  ]
+}
