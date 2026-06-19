@@ -5,7 +5,7 @@
 **Date:** 2026-06-20  
 **Mode:** real-data-anchored scenario simulation  
 **Node:** BP-HYDRO-001 / Hydro-Syntactic AI  
-**Purpose:** show how water-aware execution control scales from 100 jobs to 5,000 jobs.
+**Purpose:** show how water-aware execution control scales from 100 jobs to 5,000 jobs, including daily, monthly, and yearly water savings.
 
 ---
 
@@ -60,7 +60,7 @@ So the Hydro-Quota policy uses **41.5%** of baseline energy before the low-WUE r
 
 ---
 
-## 3. Measurement Table
+## 3. Per-Run Measurement Table
 
 | Jobs | Baseline energy Wh | Baseline direct water mL | Hydro energy Wh | Hydro direct water mL | Water saved mL | Water reduction |
 |---:|---:|---:|---:|---:|---:|---:|
@@ -72,7 +72,41 @@ So the Hydro-Quota policy uses **41.5%** of baseline energy before the low-WUE r
 
 ---
 
-## 4. Decision Table
+## 4. Daily, Monthly, and Yearly Savings Table
+
+Assumption: the job count means **jobs per day**.
+
+The monthly column uses a **30-day month**. The yearly column uses **365 days**.
+
+| Jobs per day | Baseline water L/day | Hydro water L/day | Saved L/day | Saved L/30-day month | Saved L/year |
+|---:|---:|---:|---:|---:|---:|
+| 100 | 0.0260 | 0.0012 | 0.0248 | 0.74 | 9.05 |
+| 500 | 0.1300 | 0.0060 | 0.1240 | 3.72 | 45.27 |
+| 1,000 | 0.2600 | 0.0120 | 0.2481 | 7.44 | 90.54 |
+| 2,500 | 0.6500 | 0.0299 | 0.6201 | 18.60 | 226.34 |
+| 5,000 | 1.3000 | 0.0598 | 1.2402 | 37.21 | 452.69 |
+
+This table shows the direct-water savings under the published Google-style prompt accounting boundary.
+
+The numbers are small at 100 to 5,000 median text prompts because Google’s published per-prompt direct-water figure is already very low. The implementation value becomes clearer at platform scale, longer prompts, reasoning models, image/video generation, and water-stressed regions.
+
+---
+
+## 5. Product-Scale Projection
+
+Same model, larger daily job volume:
+
+| Jobs per day | Baseline water L/day | Hydro water L/day | Saved L/day | Saved L/30-day month | Saved L/year |
+|---:|---:|---:|---:|---:|---:|
+| 100,000 | 26.00 | 1.20 | 24.80 | 744.15 | 9,053.83 |
+| 1,000,000 | 260.00 | 11.95 | 248.05 | 7,441.50 | 90,538.25 |
+| 10,000,000 | 2,600.00 | 119.52 | 2,480.48 | 74,414.40 | 905,375.20 |
+
+This is why Hydro-Quota is an implementation argument, not a decorative environmental slogan. Small per-job savings become meaningful when computation repeats at scale.
+
+---
+
+## 6. Decision Table
 
 | Jobs | Cache | Small model | Compress | Delay/batch | Full priority |
 |---:|---:|---:|---:|---:|---:|
@@ -84,7 +118,7 @@ So the Hydro-Quota policy uses **41.5%** of baseline energy before the low-WUE r
 
 ---
 
-## 5. What the Table Shows
+## 7. What the Table Shows
 
 The solution is not one magic trick.
 
@@ -102,26 +136,19 @@ log the decision
 
 This makes water reduction scale linearly with volume.
 
-At **100 jobs**, the model saves about **24.80 mL** direct water.
+At **100 jobs per day**, the model saves about **0.0248 L per day**, **0.74 L per month**, and **9.05 L per year**.
 
-At **5,000 jobs**, the model saves about **1,240.24 mL**, or **1.24 liters**, in direct water under the published Google-style direct accounting boundary.
+At **5,000 jobs per day**, the model saves about **1.24 L per day**, **37.21 L per month**, and **452.69 L per year**.
 
-That may sound small per 5,000 median text jobs, because the Google per-prompt number is already very low. The implementation value becomes more serious when:
+At **10 million jobs per day**, the same policy saves about **2,480.48 L per day**, **74,414.40 L per month**, and **905,375.20 L per year** under this narrow direct-water accounting boundary.
 
-```text
-jobs become millions or billions
-queries are longer than median text prompts
-reasoning models use more compute
-image/video generation is included
-regional water stress is added
-electricity-related indirect water is counted
-```
+That may still undercount real environmental cost because it excludes indirect electricity-related water, model-training water, hardware manufacturing water, construction water, local water scarcity weighting, and heavier AI tasks such as images, video, long reasoning, and batch analysis.
 
 That is why Hydro-Quota should not only count per-prompt direct water. It must also include indirect water, local scarcity, model size, output length, and urgency.
 
 ---
 
-## 6. Implementation Rule Extracted from the Table
+## 8. Implementation Rule Extracted from the Table
 
 The implementation solution is not merely better cooling.
 
@@ -142,7 +169,7 @@ It should count first.
 
 ---
 
-## 7. Minimum Implementable Hydro-Quota Logic
+## 9. Minimum Implementable Hydro-Quota Logic
 
 ```text
 IF cache_hit == true:
@@ -164,7 +191,7 @@ That is the first implementation skeleton.
 
 ---
 
-## 8. Result
+## 10. Result
 
 The real-data-anchored model shows that even conservative public prompt measurements can support Hydro-Quota logic.
 
@@ -183,7 +210,7 @@ That is the operational bridge from Black Paper theory to implementation.
 
 ---
 
-## 9. References
+## 11. References
 
 1. Google / Elsworth et al., "Measuring the environmental impact of delivering AI at Google Scale," arXiv, 2025.
 2. Amazon, "Amazon's data centers are 7x more water-efficient than the industry average," 2026.
