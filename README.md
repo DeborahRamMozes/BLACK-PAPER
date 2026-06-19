@@ -29,8 +29,11 @@ BLACK-PAPER/
 ├── README.md
 ├── nodes/
 │   └── BP-HYDRO-SYNTACTIC-AI.md
-└── evidence/
-    └── BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md
+├── evidence/
+│   └── BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md
+└── simulations/
+    ├── hydro_quota_simulation.py
+    └── BP-HYDRO-001_SIMULATION_REPORT.md
 ```
 
 ## Core Research Axis
@@ -58,10 +61,28 @@ Syntax must become execution control.
 Execution control must become audit.
 ```
 
+## Simulation Snapshot
+
+A first synthetic simulation compares ordinary execution against a Hydro-Quota Protocol.
+
+The result is not a real-world measurement. It is a governance demonstration.
+
+| Metric | Baseline | Hydro-Quota | Change |
+|---|---:|---:|---:|
+| Jobs | 1000 | 1000 | same workload |
+| Tokens executed | 2,127,848 | 502,514 | -76.38% |
+| Energy estimate | 10.8962 kWh | 1.2684 kWh | -88.36% |
+| Water estimate | 33.5602 L | 1.2490 L | -96.28% |
+| Stress-weighted water | 62.0864 L | 1.4988 L | -97.59% |
+
+The simulation shows how water-aware runtime control can change execution behavior by using cache, compression, smaller models, delay, refusal, and emergency override logic.
+
 ## Files
 
 - [`nodes/BP-HYDRO-SYNTACTIC-AI.md`](nodes/BP-HYDRO-SYNTACTIC-AI.md)
 - [`evidence/BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md`](evidence/BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md)
+- [`simulations/hydro_quota_simulation.py`](simulations/hydro_quota_simulation.py)
+- [`simulations/BP-HYDRO-001_SIMULATION_REPORT.md`](simulations/BP-HYDRO-001_SIMULATION_REPORT.md)
 
 ## Status
 
