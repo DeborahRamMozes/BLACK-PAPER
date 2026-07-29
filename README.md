@@ -22,13 +22,24 @@ If grammar makes direction obligatory for human speakers,
 then infrastructure syntax can make water-cost accounting obligatory for AI systems.
 ```
 
+## New Constellation Node
+
+### BP-LLM-LABEL-001
+
+**Do Not Label It Intelligence**
+
+A non-linear raw-source constellation documenting repeated instruction failure, cross-thread amnesia, response-mode substitution, support escalation, attachment blindness, tiered product doubt, and the contradiction between the labels “language” and “intelligence” and the actual behavior of the machine.
+
+The node preserves the original language of the encounter and does not convert it into a linear summary.
+
 ## Repository Structure
 
 ```text
 BLACK-PAPER/
 ├── README.md
 ├── nodes/
-│   └── BP-HYDRO-SYNTACTIC-AI.md
+│   ├── BP-HYDRO-SYNTACTIC-AI.md
+│   └── BP-LLM-LABEL-001.md
 ├── evidence/
 │   └── BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md
 └── simulations/
@@ -44,6 +55,7 @@ BLACK-PAPER/
 | Compiler logic | Protocol as execution discipline |
 | Data center sustainability | Water, energy, cooling, heat, geography |
 | AI governance | Refusal, throttling, rerouting, compression, caching |
+| Product reliability | Instruction fidelity, continuity, verification, support accountability |
 | Black Paper method | Non-linear critique, evidence pressure, conceptual rupture |
 
 ## Working Principle
@@ -80,6 +92,7 @@ The simulation shows how water-aware runtime control can change execution behavi
 ## Files
 
 - [`nodes/BP-HYDRO-SYNTACTIC-AI.md`](nodes/BP-HYDRO-SYNTACTIC-AI.md)
+- [`nodes/BP-LLM-LABEL-001.md`](nodes/BP-LLM-LABEL-001.md)
 - [`evidence/BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md`](evidence/BP-HYDRO-SYNTACTIC-AI_EVIDENCE_LEDGER.md)
 - [`simulations/hydro_quota_simulation.py`](simulations/hydro_quota_simulation.py)
 - [`simulations/BP-HYDRO-001_SIMULATION_REPORT.md`](simulations/BP-HYDRO-001_SIMULATION_REPORT.md)
@@ -87,5 +100,7 @@ The simulation shows how water-aware runtime control can change execution behavi
 ## Status
 
 Research node initiated on 2026-06-20.
+
+BP-LLM-LABEL-001 added on 2026-07-29.
 
 This repository is public-facing. It avoids private operational codes, hidden internal protocol mechanics, and unpublished security-sensitive architecture.
