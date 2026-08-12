@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">DSCC provisional profile</title>
+  <desc id="desc">Prototype behavioral assessment from zero to four across ten dimensions. Independent transfer is marked not yet measured rather than scored.</desc>
+  <rect width="1200" height="760" fill="#111111"/>
+  <text x="60" y="60" fill="#f1eadf" font-family="Georgia, serif" font-size="34" font-weight="700">DSCC PROVISIONAL PROFILE</text>
+  <text x="60" y="95" fill="#b8b0a4" font-family="Arial, sans-serif" font-size="18">Prototype behavioral assessment. Not an IQ score. Not a population norm.</text>
+  <line x1="420" y1="135" x2="420" y2="690" stroke="#5b5752" stroke-width="1"/>
+  <line x1="590" y1="135" x2="590" y2="690" stroke="#35322f" stroke-width="1"/>
+  <line x1="760" y1="135" x2="760" y2="690" stroke="#35322f" stroke-width="1"/>
+  <line x1="930" y1="135" x2="930" y2="690" stroke="#35322f" stroke-width="1"/>
+  <line x1="1100" y1="135" x2="1100" y2="690" stroke="#5b5752" stroke-width="1"/>
+  <text x="415" y="125" text-anchor="middle" fill="#aaa198" font-family="Arial" font-size="14">0</text>
+  <text x="590" y="125" text-anchor="middle" fill="#aaa198" font-family="Arial" font-size="14">1</text>
+  <text x="760" y="125" text-anchor="middle" fill="#aaa198" font-family="Arial" font-size="14">2</text>
+  <text x="930" y="125" text-anchor="middle" fill="#aaa198" font-family="Arial" font-size="14">3</text>
+  <text x="1100" y="125" text-anchor="middle" fill="#aaa198" font-family="Arial" font-size="14">4</text>
+
+  <g font-family="Arial, sans-serif" font-size="18" fill="#ece6dc">
+    <text x="60" y="170">Problem representation</text>
+    <text x="60" y="225">Decomposition</text>
+    <text x="60" y="280">Constraint externalization</text>
+    <text x="60" y="335">Error diagnosis</text>
+    <text x="60" y="390">Evidence governance</text>
+    <text x="60" y="445">Adversarial reasoning</text>
+    <text x="60" y="500">Abstraction and reuse</text>
+    <text x="60" y="555">Cognitive governance</text>
+    <text x="60" y="610">Metacognitive calibration</text>
+    <text x="60" y="665">Independent transfer</text>
+  </g>
+
+  <g fill="#d5c4a1">
+    <rect x="420" y="150" width="680" height="28" rx="4"/>
+    <rect x="420" y="205" width="680" height="28" rx="4"/>
+    <rect x="420" y="260" width="680" height="28" rx="4"/>
+    <rect x="420" y="315" width="680" height="28" rx="4"/>
+    <rect x="420" y="370" width="680" height="28" rx="4"/>
+    <rect x="420" y="425" width="680" height="28" rx="4"/>
+    <rect x="420" y="480" width="680" height="28" rx="4"/>
+    <rect x="420" y="535" width="680" height="28" rx="4"/>
+    <rect x="420" y="590" width="510" height="28" rx="4"/>
+  </g>
+  <rect x="420" y="645" width="680" height="28" rx="4" fill="none" stroke="#d5c4a1" stroke-width="2" stroke-dasharray="8 6"/>
+
+  <g font-family="Arial, sans-serif" font-size="17" fill="#111111" font-weight="700">
+    <text x="1085" y="170" text-anchor="end">4</text>
+    <text x="1085" y="225" text-anchor="end">4</text>
+    <text x="1085" y="280" text-anchor="end">4</text>
+    <text x="1085" y="335" text-anchor="end">4</text>
+    <text x="1085" y="390" text-anchor="end">4</text>
+    <text x="1085" y="445" text-anchor="end">4</text>
+    <text x="1085" y="500" text-anchor="end">4</text>
+    <text x="1085" y="555" text-anchor="end">4</text>
+    <text x="915" y="610" text-anchor="end">3</text>
+  </g>
+  <text x="1090" y="666" text-anchor="end" fill="#d5c4a1" font-family="Arial, sans-serif" font-size="15" font-weight="700">NOT YET MEASURED</text>
+  <text x="60" y="725" fill="#9e978e" font-family="Arial, sans-serif" font-size="15">Stage 4 documented; Stage 5 remains unconfirmed until matched unaided transfer testing.</text>
+</svg>
