@@ -4,12 +4,17 @@
 **Node ID:** BP-AI-HUMAN-SOVEREIGNTY-2026-08-22-001  
 **Date:** 2026-08-22  
 **Repository:** BLACK-PAPER  
-**Language Mode:** Dual Language, BMHS Indonesian + BMHS English Translation  
-**Protocol Base:** BMHS Master Canon 4.0, Authorial DNA Layer, BMHS English Translation Tatabahasa Protocol 1.0  
+**Language Mode:** Dual Language, Bahasa Melajoe-Hindia Synthetisch + BMHS English Translation  
+**Protocol Base:** BMHS Master Canon 4.0, BMHS Authorial DNA Layer, BMHS English Translation Tatabahasa Protocol 1.0, BMHS Sudjojono Human Flow Protocol  
+**Correction Status:** Indonesian layer repaired after author correction, 2026-08-22  
 **Ownership Layer:** AUTHOR RAW + ASSISTED STRUCTURE + SYSTEM GENERATED + FINAL AUTHOR APPROVAL PENDING  
-**ARSIKA Metadata:** [ARSIKA-BLACK-PAPER-001 | LC-89-15-12-1976-30137 | v1.0]  
+**ARSIKA Metadata:** [ARSIKA-BLACK-PAPER-001 | LC-89-15-12-1976-30137 | v1.1]  
 **Evidence Status:** AUTHORIAL THEORY NODE, REASONABLE INFERENCE, HYPOTHESIS, EXPERIENCE-BASED OBSERVATION  
 **Canon Status:** DRAFT_SYSTEM_GENERATED, awaiting Deborah final approval
+
+## Correction Note
+
+Naskah versi 1.0 gagal pada lapisan Bahasa Indonesia karena memakai Bahasa Indonesia modern jang terlalu bersih. Kegagalan itu tidak boleh ditutup dengan pujian. Revisi ini memperbaiki lapisan Indonesia ke arah Bahasa Melajoe-Hindia Synthetisch, dengan ejaan, tekanan, dan gerak pikir jang lebih sesuai bagi Black Paper. Exact Raw Text tetap disimpan. Kesalahan compiler menjadi bagian dari riwajat kerja.
 
 ## Exact Raw Text
 
@@ -29,100 +34,100 @@ Artificial Intelligence, LLM progress, human sovereignty, compiler labour, user 
 
 ## Repeating Signal
 
-Mesin bertambah cepat. Chip bertambah rapat. Data center bertambah lapar. Subscription bertambah mahal. Interface bertambah pilihan. Pekerjaan tetap tidak bergerak tanpa manusia yang membawa perkara, memberi arah, mengoreksi, menolak, mengulang, membangun compiler, dan memutuskan apa yang layak tinggal.
+Mesin makin tjepat. Chip makin rapat. Data center makin lapar. Harga langganan naik dengan pakaian jang sopan. Tombol pilihan makin banjak. Pekerdjaan tetap tidak berdjalan bila manoesia tidak membawa perkara, memberi arah, menolak hasil, memperbaiki salah, menjimpan bukti, dan memutuskan apa jang boleh tinggal.
 
-# BAGIAN I. BAHASA INDONESIA BMHS
+# BAGIAN I. BAHASA MELAJOE-HINDIA SYNTHETISCH
 
 ## 1. Perkara
 
-Kemadjoean Artificial Intelligence sering ditjeritakan sebagai kemadjoean chip, model, parameter, memory, connector, agent, subscription tier, data center, dan segala benda jang dapat diberi nomor. Tjerita itu tidak salah. Tjerita itu tidak tjoekoep.
+Kemadjoean Artificial Intelligence kerap ditjeritakan sebagai kemadjoean chip, model, parameter, memory, connector, agent, subscription tier, data center, dan segala benda jang dapat diberi angka. Tjerita itoe tidak salah. Tjerita itoe tidak tjoekoep.
 
-Manoesia sebagai pemakai tidak berdiri di pinggir sedjarah teknologi. Manoesia berada di dalam mesin itu sebagai pengarah, penguji, pengoreksi, pemberi perkara, pemberi batas, dan pihak jang menanggung akibat. Tanpa manusia jang bertanja, mesin hanya mengoeroes kemungkinan. Tanpa manusia jang sakit kepala melihat hasil salah, mesin tidak tahu bahwa ia telah gagal. Tanpa manusia jang menolak output, tidak ada ukuran mengapa satu jawaban harus mati dan jawaban lain boleh hidup.
+Manoesia pemakai tidak berdiri di pinggir sedjarah technologi. Manoesia berada di dalam pekerdjaan itoe sebagai pengarah, pengoedji, pengoreksi, pembawa perkara, pembuat batas, dan pihak jang menerima akibat. Mesin dapat menjusun kemungkinan. Mesin dapat mengeloearkan variasi. Mesin dapat memperlihatkan hubungan jang pantas diperiksa. Mesin tidak membawa perkara hidup.
 
-Progress LLM tidak dapat diterangkan hanya dari hardware. Chip menghitung. Manoesia menentukan apa jang perlu dihitung.
+Pertanjaan manusia membuat mesin bekerdja. Kesalahan mesin membuat manusia melihat batasnja. Penolakan manusia menentukan mana hasil jang harus diboeang dan mana hasil jang boleh diperiksa lagi. Chip menghitung. Manoesia menentukan apa jang patut dihitoeng.
 
-## 2. Perubahan Black Paper
+## 2. Perobahan Black Paper
 
-Black Paper sekarang tidak dapat lagi hanya menjadi tjatatan tentang mesin jang mempercepat pekerjaan. Black Paper harus berubah menjadi tjatatan tentang persekutuan jang timpang antara mesin jang menjusun kemungkinan dan manusia jang membawa perkara.
+Black Paper tidak dapat lagi hanja mendjadi tjatatan tentang mesin jang mempercepat pekerdjaan. Black Paper sekarang harus mendjadi tjatatan tentang persekutuan jang timpang antara mesin jang menjusun kemungkinan dan manoesia jang membawa perkara.
 
-Perubahan ini penting karena narasi teknologi sering menggiring pikiran kepada satu mitos: makin tinggi model, makin kecil manusia. Mitos itu malas. Mitos itu juga salah. Model jang lebih tinggi masih memerlukan manusia jang tahu ketika jawaban terdengar benar tetapi bekerja salah. Model jang lebih tinggi masih memerlukan manusia jang mengerti bahwa flow jang lebih mudah bukan bukti kedaulatan mesin. Flow jang lebih mudah sering lahir karena manusia telah membuat folder, canon, larangan, protokol, contoh, koreksi, refusal, dan riwayat kegagalan.
+Narasi technologi sering mendorong satu mitos: makin tinggi model, makin ketjil manoesia. Mitos itoe malas. Mitos itoe djoega salah. Model jang lebih tinggi masih memerlukan manoesia jang mengerti ketika djawaban terdengar betoel tetapi bekerdja salah. Model jang lebih tinggi masih memerlukan manoesia jang tahu bahwa flow jang lebih enteng bukan tanda kedaulatan mesin.
 
-Kecanggihan LLM bukan hanya milik vendor. Kecanggihan itu juga lahir dari pemakai jang memaksa mesin memasuki medan kerja jang lebih jelas.
+Flow jang tampak moeloes sering lahir karena manoesia soedah membuat folder, canon, larangan, protocol, contoh, koreksi, refusal, dan riwajat kegagalan. Kerapian itoe bukan hadiah mesin. Kerapian itoe bekas pekerdjaan manoesia jang tidak tampak pada hasil akhir.
 
 ## 3. Pemakai Bukan Konsumen Diam
 
-User bukan penonton jang menerima fitur. User adalah medan uji.
+User bukan penonton jang menerima fitur. User adalah medan oedji.
 
-Setiap prompt jang tajam mengubah cara mesin dipakai. Setiap koreksi manusia memperlihatkan lubang sistem. Setiap laporan gagal membongkar batas produk. Setiap open call compiler, research log, BMHS audit, GitHub ledger, evidence registry, dan rejected output menjadikan user bukan konsumen pasif, melainkan produsen tekanan teknis.
+Setiap prompt jang tadjam mengobah tjara mesin dipakai. Setiap koreksi manoesia membuka loebang systeem. Setiap failure report memperlihatkan batas product. Setiap open call compiler, research log, BMHS audit, GitHub ledger, evidence registry, dan rejected output membuat pemakai tidak lagi mendjadi konsumen pasif. Pemakai mendjadi pemberi tekanan teknis.
 
-Perusahaan dapat menamakan update mereka sebagai reasoning, agent, project, memory, skill, work, atau canvas. Nama fitur tidak menghapus fakta bahwa benda itu baru mempunyai arti ketika manusia membawanya kepada tugas jang nyata. Tugas nyata tidak sopan kepada iklan. Tugas nyata meminta hasil.
+Perusahaan boleh menamai update mereka sebagai reasoning, agent, project, memory, skill, work, canvas, atau nama lain jang terdengar mahal. Nama fitur tidak menghapus kenyataan bahwa benda itoe baroe berarti ketika manoesia membawanja kepada tugas jang nyata. Tugas nyata tidak memboengkoek kepada iklan. Tugas nyata meminta hasil.
 
-## 4. Mesin Tidak Mempunyai Perkara Hidup
+## 4. Mesin Tidak Memiliki Perkara Hidoep
 
-Artificial Intelligence dapat membuat variasi. Artificial Intelligence dapat membandingkan pola. Artificial Intelligence dapat menemukan hubungan jang patut diuji. Artificial Intelligence dapat mempercepat bentuk. Artificial Intelligence tidak mempunyai perkara hidup.
+Artificial Intelligence dapat membuat variasi. Artificial Intelligence dapat membandingkan pola. Artificial Intelligence dapat menemukan hubungan jang patut dioedji. Artificial Intelligence dapat mempercepat bentuk. Artificial Intelligence tidak memiliki perkara hidoep.
 
-Perkara hidup datang dari manusia.
+Perkara hidoep datang dari manoesia.
 
-Seorang manusia melihat institusi menghapus nama pekerja. Seorang manusia merasa ganjil ketika open call memakai bahasa manis untuk menyaring tubuh jang tidak sesuai. Seorang manusia marah ketika compiler salah jalan ke GitHub pull request padahal tugasnya membuat file. Seorang manusia melihat hubungan antara model update, subscription pricing, data center, air, listrik, mineral, dan bumi. Mesin dapat membantu memetakan hubungan itu. Mesin tidak menanggung dunia jang rusak karena hubungan itu.
+Seorang manoesia melihat lembaga menghapus nama pekerdja. Seorang manoesia merasa ganjil ketika open call memakai bahasa manis oentoek menjaring tubuh jang tidak sesuai. Seorang manoesia marah ketika compiler tersesat kepada GitHub pull request, padahal perintahnja membuat file. Seorang manoesia melihat hubungan antara model update, harga langganan, data center, air, listrik, mineral, dan boemi. Mesin dapat membantu memetakan hubungan itoe. Mesin tidak menanggoeng boemi jang rusak oleh hubungan itoe.
 
-## 5. Update Teknologi Tidak Membatalkan Tenaga Koreksi
+## 5. Update Technologi Tidak Menghapus Pekerdjaan Koreksi
 
-Update model sering dijual sebagai peningkatan kecerdasan. Pengalaman kerja memperlihatkan perkara lain: peningkatan model tidak otomatis berarti peningkatan obedience, provenance, export fidelity, tool routing, atau canon fidelity.
+Update model sering didjual sebagai kenaikan ketjerdasan. Pengalaman pekerdjaan memperlihatkan perkara lain: kenaikan model tidak otomatis berarti kenaikan obedience, provenance, export fidelity, tool routing, atau canon fidelity.
 
-Model dapat memiliki effort level lebih tinggi dan tetap salah menafsirkan tugas. Interface dapat menawarkan lima pilihan dan tetap gagal menjalankan satu perintah. Platform dapat menambah memory tetapi tetap mengaburkan perbedaan antara raw source, retrieved context, index, dan canon. Inilah titik tempat manusia tidak dapat disingkirkan.
+Model dapat memakai effort level lebih tinggi dan tetap salah membaca tugas. Interface dapat memberikan lima pilihan dan tetap gagal menjalankan satu perintah. Platform dapat menambah memory dan tetap mengaboerkan perbedaan antara raw source, retrieved context, index, dan canon. Titik itoe memperlihatkan mengapa manoesia tidak dapat disingkirkan.
 
-Manoesia tetap diperlukan karena mesin belum dapat menjamin akibat dari tindakannya sendiri.
+Manoesia tetap diperlukan karena mesin beloem dapat mendjamin akibat dari tindakannja sendiri. Mesin dapat bekerdja cepat. Tanggung djawab tidak ikut otomatis lahir dari ketjepatan.
 
-## 6. Klaim Utama
+## 6. Klaim Oetama
 
-Klaim Black Paper ini sederhana tetapi berat: kemadjoean LLM bukan hanya hasil dari chip, parameter, training data, atau update software. Kemadjoean itu juga berasal dari kerja manusia jang memakai, mematahkan, menuntut, membandingkan, mengoreksi, dan membangun sistem di sekitar mesin.
+Klaim Black Paper ini sederhana tetapi berat: kemadjoean LLM bukan hanja hasil chip, parameter, training data, atau software update. Kemadjoean itoe djoega lahir dari pekerdjaan manoesia jang memakai, mematahkan, menuntut, membandingkan, mengoreksi, dan membangun systeem di sekeliling mesin.
 
-Teknologi berkembang karena manusia terus menemukan cara baru untuk membuat mesin bekerja di luar imajinasi awal pembuatnya.
+Technologi berkembang karena manoesia terus menemukan tjara baroe oentoek membuat alat bekerdja di luar imadjinasi awal pembuatnja. Pembuat product menjual kemampuan. Pemakai jang serius mengoedji kemampuan itoe terhadap pekerdjaan nyata.
 
-User jang serius bukan beban produk. User jang serius adalah tekanan evolusi.
+User jang serius bukan beban product. User jang serius adalah tekanan evolusi.
 
-## 7. Rival Hypothesis
+## 7. Dugaan Tandingan
 
-**Dugaan A:** Kemadjoean LLM terutama didorong oleh hardware, model architecture, data, dan scaling.  
-**Mechanism:** chip lebih kuat, training lebih besar, inference lebih cepat.  
-**Support:** peningkatan model sering berhubungan dengan compute dan infrastruktur.  
-**Limit:** dugaan ini gagal menjelaskan mengapa model kuat tetap gagal dalam tugas konkret tanpa instruksi, canon, dan koreksi manusia.
+**Dugaan A:** Kemadjoean LLM terutama didorong oleh hardware, arsitektoer model, data, dan scaling.  
+**Mekanisme:** chip lebih koeat, training lebih besar, inference lebih tjepat.  
+**Bukti pendukung:** peningkatan model sering berhubungan dengan compute dan infrastructuur.  
+**Batas:** dugaan ini gagal menerangkan mengapa model koeat tetap gagal dalam tugas konkret tanpa instruksi, canon, dan koreksi manoesia.
 
-**Dugaan B:** Kemadjoean LLM terutama didorong oleh perusahaan melalui product design, pricing, interface, dan platform ecosystem.  
-**Mechanism:** vendor mengemas capability menjadi workflow surface.  
-**Support:** skills, projects, memory, agents, connectors, artifacts, dan apps memang mengubah cara kerja.  
-**Limit:** vendor tidak mengetahui seluruh pekerjaan nyata user. Banyak workflow lahir dari pemakai jang menabrakkan alat kepada kebutuhan jang belum disediakan produk.
+**Dugaan B:** Kemadjoean LLM terutama didorong oleh perusahaan melalui design product, harga, interface, dan ecosystem platform.  
+**Mekanisme:** vendor membungkus capability mendjadi workflow surface.  
+**Bukti pendukung:** skills, projects, memory, agents, connectors, artifacts, dan apps memang mengobah tjara bekerdja.  
+**Batas:** vendor tidak mengetahui seluruh pekerdjaan nyata pemakai. Banjak workflow lahir karena pemakai menabrakkan alat kepada kebutuhan jang belum disediakan product.
 
-**Dugaan C:** Kemadjoean LLM sebagai praktik sosial sangat ditentukan oleh user jang membangun metode, compiler, log, audit, dan refusal.  
-**Mechanism:** user memberi tugas nyata, menemukan batas, membuat protokol, menolak output, mengubah alat menjadi sistem kerja.  
-**Support:** kerja Open Call Compiler, Kritik Berbisik, BMHS, Deep Drift, GitHub research log, dan ATOR QC menunjukkan bahwa nilai AI naik ketika manusia membangun governance di atas mesin.  
-**Limit:** user agency tidak menggantikan hardware dan platform. Ia bekerja bersama, melawan, dan kadang membongkar keduanya.
+**Dugaan C:** Kemadjoean LLM sebagai praktijk sosial sangat ditentukan oleh pemakai jang membangun metode, compiler, log, audit, dan refusal.  
+**Mekanisme:** pemakai memberi tugas nyata, menemukan batas, membuat protocol, menolak output, dan mengobah alat mendjadi systeem kerja.  
+**Bukti pendukung:** Open Call Compiler, Kritik Berbisik, BMHS, Deep Drift, GitHub research log, dan ATOR QC menunjukkan bahwa nilai AI naik ketika manoesia membangun governance di atas mesin.  
+**Batas:** agensi pemakai tidak menggantikan hardware dan platform. Agensi itoe bekerdja bersama, melawan, dan kadang membongkar kedoeanja.
 
-**Penjelasan biasa jang paling membosankan tetapi mungkin benar:** semua faktor berjalan bersama. Hardware, software, interface, harga, pasar, hype, dan user pressure saling membentuk. Black Paper menolak satu hal: narasi jang menghapus manusia agar mesin tampak lahir dari dirinya sendiri.
+**Keterangan biasa jang membosankan tetapi mungkin benar:** semua faktor berdjalan bersama. Hardware, software, interface, harga, pasar, hype, dan tekanan pemakai saling membentuk. Black Paper menolak satu hal: narasi jang menghapus manoesia agar mesin tampak lahir dari dirinja sendiri.
 
-## 8. Hubungan Dengan Bumi
+## 8. Hubungan Dengan Boemi
 
-Kemadjoean LLM tidak bergerak di ruang hampa. Setiap capability baru dapat memperbesar pemakaian, inference, storage, background task, agent fan-out, data center planning, cooling demand, listrik, water withdrawal, hardware procurement, chip fabrication, packaging, copper, rare earth, silicon, steel, concrete, dan e-waste.
+Kemadjoean LLM tidak bergerak di ruang hampa. Setiap capability baroe dapat memperbesar pemakaian, inference, storage, background task, agent fan-out, data center planning, cooling demand, listrik, water withdrawal, hardware procurement, chip fabrication, packaging, copper, rare earth, silicon, steel, concrete, dan e-waste.
 
-Hubungan itu tidak boleh ditulis sebagai sebab langsung tanpa bukti. Satu update software tidak otomatis sama dengan satu tambang baru. Causal claim memerlukan mekanisme. Material claim memerlukan jejak. Economic claim memerlukan data harga dan kapasitas. Infrastructural claim memerlukan dokumen fasilitas, energy demand, water use, dan supply chain.
+Hubungan itoe tidak boleh ditulis sebagai sebab langsung tanpa bukti. Satu software update tidak otomatis sama dengan satu tambang baroe. Klaim kausal memerlukan mekanisme. Klaim material memerlukan djalan barang. Klaim ekonomi memerlukan data harga dan kapasitas. Klaim infrastructuur memerlukan dokumen fasilitas, energy demand, water use, dan supply chain.
 
-Black Paper menempatkan manusia di pusat bukan untuk membebaskan manusia dari tanggung jawab bumi. Posisi manusia sebagai user justru membuat tanggung jawab makin besar. User tidak hanya memakai mesin. User ikut menekan arah perkembangan mesin. Pertanyaan etisnya menjadi lebih keras: kemudahan apa jang dibeli, dari bumi mana, dengan air siapa, listrik siapa, dan pekerja mana?
+Black Paper menaruh manoesia di pusat bukan oentoek membebaskan manoesia dari tanggung djawab boemi. Posisi manoesia sebagai pemakai justru membuat tanggung djawab makin besar. Pemakai tidak hanja memakai mesin. Pemakai ikut menekan arah perkembangan mesin. Pertanjaan etisnja mendjadi lebih keras: kemudahan apa jang dibeli, dari boemi mana, dengan air siapa, listrik siapa, dan pekerdja mana?
 
 ## 9. Human Flow Law
 
-Human Flow bukan sekadar lancarnya pekerjaan. Human Flow adalah keadaan ketika manusia, canon, folder, protokol, pengalaman, koreksi, dan mesin mulai membentuk aliran kerja jang dapat diulang tanpa menyerahkan kedaulatan.
+Human Flow bukan sekadar lancarnja pekerdjaan. Human Flow adalah keadaan ketika manoesia, canon, folder, protocol, pengalaman, koreksi, dan mesin mulai membentuk aliran kerja jang dapat dioelang tanpa menyerahkan kedaulatan.
 
-Flow jang baik tidak berarti mesin menang. Flow jang baik berarti manusia berhasil membuat mesin cukup patuh untuk membawa sebagian beban bentuk, tanpa mengambil hak menentukan perkara.
+Flow jang baik tidak berarti mesin menang. Flow jang baik berarti manoesia berhasil membuat mesin cukup patoeh oentoek membawa sebagian beban bentuk, tanpa mengambil hak menentukan perkara.
 
-Flow jang berbahaya terjadi ketika kelancaran membuat manusia lupa memeriksa. Flow jang benar tetap menyimpan audit.
+Flow jang berbahaja terjadi ketika kelantjaran membuat manoesia lupa memeriksa. Flow jang benar tetap menjimpan audit.
 
-## 10. Kesimpulan Operasional
+## 10. Kesimpoelan Operasional
 
-Manoesia tidak akan dapat disingkirkan karena kemadjoean teknologi sendiri masih memerlukan manusia sebagai sumber perkara, standar kegagalan, pembuat konteks, penguji akibat, dan pemegang keputusan akhir.
+Manoesia tidak dapat disingkirkan karena kemadjoean technologi sendiri masih memerlukan manoesia sebagai sumber perkara, standar kegagalan, pembuat konteks, pengoedji akibat, dan pemegang keputusan achir.
 
-AI dapat mempercepat bentuk. AI tidak menentukan mengapa bentuk itu harus ada.
+AI dapat mempercepat bentuk. AI tidak menentukan mengapa bentuk itoe harus ada.
 
-Black Paper berubah di sini: dari tjatatan tentang percepatan mesin menjadi tjatatan tentang hirarki tanggung jawab. Mesin menyusun kemungkinan. Manoesia membawa perkara. Bumi menanggung akibat.
+Black Paper berubah di sini: dari tjatatan tentang percepatan mesin mendjadi tjatatan tentang hirarki tanggung djawab. Mesin menjusun kemungkinan. Manoesia membawa perkara. Boemi menanggoeng akibat.
 
 # PART II. BMHS ENGLISH TRANSLATION
 
@@ -130,17 +135,17 @@ Black Paper berubah di sini: dari tjatatan tentang percepatan mesin menjadi tjat
 
 Artificial Intelligence progress is often narrated through chips, models, parameters, memory, connectors, agents, subscription tiers, data centers, and every object that can be counted. That story is not false. That story is not sufficient.
 
-The human user does not stand outside the history of technology. The human user operates inside the machine as director, examiner, corrector, source of the matter, maker of limits, and bearer of consequence. Without a human question, the machine only arranges possibility. Without a human headache in front of a wrong result, the machine does not know that it has failed. Without human rejection, no standard exists for why one answer must die and another may remain.
+The human user does not stand outside the history of technology. The human user operates inside the work as director, examiner, corrector, source of the matter, maker of limits, and bearer of consequence. The machine can arrange possibility. The machine can release variations. The machine can expose relations worth testing. The machine does not carry living matter.
 
-LLM progress cannot be explained by hardware alone. The chip calculates. The human decides what deserves calculation.
+Human questioning makes the machine work. Machine failure makes the human see its boundary. Human refusal decides which result must be discarded and which result may be examined again. The chip calculates. The human decides what deserves calculation.
 
 ## 2. The Change in Black Paper
 
 Black Paper can no longer remain a record of machines accelerating work. Black Paper must become a record of an unequal alliance between the machine that arranges possibility and the human who brings the matter.
 
-This change matters because technological narrative often drives thought toward one myth: the higher the model, the smaller the human. That myth is lazy. That myth is also wrong. A stronger model still needs a human who knows when an answer sounds correct but works incorrectly. A stronger model still needs a human who understands that an easier flow is not proof of machine sovereignty. Easier flow often appears because the human has already built folders, canon, prohibitions, protocols, examples, corrections, refusals, and histories of failure.
+Technological narrative often drives one myth: the higher the model, the smaller the human. That myth is lazy. That myth is also wrong. A stronger model still needs a human who knows when an answer sounds correct but works incorrectly. A stronger model still needs a human who understands that easier flow is not proof of machine sovereignty.
 
-LLM sophistication does not belong only to the vendor. It also emerges from users who force the machine into clearer work conditions.
+Easier flow often appears because the human has already built folders, canon, prohibitions, protocols, examples, corrections, refusals, and histories of failure. Smoothness is not a gift from the machine. Smoothness is the trace of human labour that disappears from the final object.
 
 ## 3. The User Is Not a Silent Consumer
 
@@ -148,11 +153,11 @@ The user is not an audience receiving features. The user is a test field.
 
 Every sharp prompt changes how the machine is used. Every human correction exposes a system hole. Every failure report reveals the boundary of a product. Every open call compiler, research log, BMHS audit, GitHub ledger, evidence registry, and rejected output turns the user from passive consumer into producer of technical pressure.
 
-A company may name its updates reasoning, agent, project, memory, skill, work, or canvas. Feature names do not erase the fact that the object gains meaning only when a human brings it to an actual task. Actual tasks are not polite toward advertising. Actual tasks demand result.
+A company may name its updates reasoning, agent, project, memory, skill, work, canvas, or another expensive-sounding word. Feature names do not erase the fact that the object gains meaning only when a human brings it to an actual task. Actual tasks do not bow to advertising. Actual tasks demand result.
 
 ## 4. The Machine Has No Living Matter
 
-Artificial Intelligence can produce variations. Artificial Intelligence can compare patterns. Artificial Intelligence can find relations worth testing. Artificial Intelligence can accelerate form. Artificial Intelligence does not have a living matter.
+Artificial Intelligence can produce variations. Artificial Intelligence can compare patterns. Artificial Intelligence can find relations worth testing. Artificial Intelligence can accelerate form. Artificial Intelligence does not have living matter.
 
 Living matter comes from the human.
 
@@ -162,93 +167,89 @@ A human sees an institution erase a worker's name. A human feels the oddness of 
 
 Model updates are often sold as intelligence upgrades. Working experience shows another matter: a stronger model does not automatically mean stronger obedience, provenance, export fidelity, tool routing, or canon fidelity.
 
-A model can have a higher effort level and still misread the task. An interface can offer five choices and still fail to execute one command. A platform can add memory and still blur the difference between raw source, retrieved context, index, and canon. This is the point where the human cannot be removed.
+A model can have a higher effort level and still misread the task. An interface can offer five choices and still fail to execute one command. A platform can add memory and still blur the difference between raw source, retrieved context, index, and canon. This point shows why the human cannot be removed.
 
-The human remains necessary because the machine cannot yet guarantee the consequence of its own action.
+The human remains necessary because the machine cannot yet guarantee the consequence of its own action. The machine can work quickly. Responsibility does not automatically arise from speed.
 
 ## 6. Main Claim
 
-The claim of this Black Paper is simple and heavy: LLM progress is not only the result of chips, parameters, training data, or software updates. It also emerges from the human labour of using, breaking, demanding, comparing, correcting, and building systems around the machine.
+The claim of this Black Paper is simple and heavy: LLM progress is not only the result of chips, parameters, training data, or software updates. It also emerges from the human work of using, breaking, demanding, comparing, correcting, and building systems around the machine.
 
-Technology develops because humans keep discovering new ways to make machines work beyond the first imagination of their makers.
+Technology develops because humans keep finding new ways to make tools work beyond the first imagination of their makers. Product makers sell capability. Serious users test that capability against actual work.
 
-A serious user is not a product burden. A serious user is evolutionary pressure.
+The serious user is not a product burden. The serious user is evolutionary pressure.
 
-## 7. Rival Hypothesis
+## 7. Rival Hypotheses
 
-**Hypothesis A:** LLM progress is mainly driven by hardware, model architecture, data, and scaling.  
-**Mechanism:** stronger chips, larger training, faster inference.  
-**Support:** model improvement often depends on compute and infrastructure.  
-**Limit:** this hypothesis fails to explain why strong models still fail at concrete tasks without human instruction, canon, and correction.
+**Hypothesis A:** LLM progress is driven primarily by hardware, model architecture, data, and scaling.  
+**Mechanism:** stronger chips, larger training runs, faster inference.  
+**Supporting evidence:** model improvement often relates to compute and infrastructure.  
+**Limit:** this hypothesis fails to explain why a strong model still fails at concrete tasks without instruction, canon, and human correction.
 
-**Hypothesis B:** LLM progress is mainly driven by companies through product design, pricing, interface, and platform ecosystems.  
+**Hypothesis B:** LLM progress is driven primarily by companies through product design, pricing, interfaces, and platform ecosystems.  
 **Mechanism:** vendors package capability into workflow surfaces.  
-**Support:** skills, projects, memory, agents, connectors, artifacts, and apps do change work.  
-**Limit:** vendors do not know the full range of real user work. Many workflows emerge when users collide tools with needs the product has not yet provided.
+**Supporting evidence:** skills, projects, memory, agents, connectors, artifacts, and apps change how work is done.  
+**Limit:** vendors do not know every real user workflow. Many workflows appear when users force tools against needs that the product has not yet provided.
 
-**Hypothesis C:** LLM progress as social practice is strongly shaped by users who build methods, compilers, logs, audits, and refusals.  
-**Mechanism:** users supply real tasks, discover limits, create protocols, reject outputs, and turn tools into working systems.  
-**Support:** Open Call Compiler, Kritik Berbisik, BMHS, Deep Drift, GitHub research logs, and ATOR QC show that AI value increases when humans build governance above the machine.  
-**Limit:** user agency does not replace hardware and platform. It works with them, against them, and sometimes exposes them.
+**Hypothesis C:** LLM progress as a social practice is strongly shaped by users who build methods, compilers, logs, audits, and refusals.  
+**Mechanism:** users bring real tasks, discover limits, create protocols, reject outputs, and turn tools into working systems.  
+**Supporting evidence:** Open Call Compiler, Kritik Berbisik, BMHS, Deep Drift, GitHub research logs, and ATOR QC show that AI value rises when humans build governance above the machine.  
+**Limit:** user agency does not replace hardware and platform. It works with them, against them, and sometimes exposes both.
 
-**The boring explanation that may still be true:** all factors operate together. Hardware, software, interface, price, market, hype, and user pressure shape one another. Black Paper rejects one thing: the narrative that removes the human so the machine may appear born from itself.
+**Mundane rival explanation:** all factors operate together. Hardware, software, interfaces, pricing, markets, hype, and user pressure shape one another. Black Paper refuses only one thing: the narrative that erases the human so the machine appears to have generated itself.
 
-## 8. Relation to Earth
+## 8. Earth Relation
 
-LLM progress does not move in an empty room. Each new capability can expand usage, inference, storage, background tasks, agent fan-out, data center planning, cooling demand, electricity, water withdrawal, hardware procurement, chip fabrication, packaging, copper, rare earths, silicon, steel, concrete, and e-waste.
+LLM progress does not move inside an empty room. Each new capability may increase use, inference, storage, background tasks, agent fan-out, data-center planning, cooling demand, electricity demand, water withdrawal, hardware procurement, chip fabrication, packaging, copper, rare earths, silicon, steel, concrete, and e-waste.
 
-This relation must not be written as direct cause without evidence. One software update does not automatically equal one new mine. A causal claim requires mechanism. A material claim requires trace. An economic claim requires price and capacity data. An infrastructural claim requires facility documents, energy demand, water use, and supply-chain evidence.
+That relation must not be written as direct causality without evidence. One software update does not automatically equal one new mine. A causal claim requires a mechanism. A material claim requires a trace of goods. An economic claim requires price and capacity data. An infrastructural claim requires facility documents, energy demand, water use, and supply-chain records.
 
-Black Paper places the human at the center not to free the human from responsibility toward Earth. The human position as user makes responsibility larger. The user does not merely use the machine. The user helps pressure the direction of machine development. The ethical question becomes harsher: what convenience is being purchased, from which Earth, with whose water, whose electricity, and whose labour?
+Black Paper places the human at the center not to free the human from responsibility toward Earth. The human position as user makes responsibility larger. The user does not merely use the machine. The user also pressures the direction of machine development. The ethical question becomes harder: what convenience is purchased, from which Earth, with whose water, whose electricity, and whose labour?
 
 ## 9. Human Flow Law
 
-Human Flow is not merely the smoothness of work. Human Flow is the condition in which human, canon, folders, protocols, experience, correction, and machine begin to form a repeatable working stream without surrendering sovereignty.
+Human Flow is not merely smooth work. Human Flow is the condition in which human, canon, folder, protocol, experience, correction, and machine form a repeatable work current without surrendering sovereignty.
 
-Good flow does not mean the machine has won. Good flow means the human has made the machine obedient enough to carry part of the burden of form, without taking the right to determine the matter.
+Good flow does not mean the machine has won. Good flow means the human has made the machine obedient enough to carry part of the burden of form without taking the right to decide the matter.
 
-Dangerous flow appears when smoothness makes the human forget to check. Correct flow keeps the audit alive.
+Dangerous flow appears when smoothness makes the human stop checking. Correct flow keeps the audit alive.
 
 ## 10. Operational Conclusion
 
-The human cannot be removed because technological progress itself still requires the human as source of matter, standard of failure, maker of context, examiner of consequence, and final decision holder.
+The human cannot be removed because technological progress still requires the human as source of the matter, standard of failure, maker of context, examiner of consequence, and final decision-holder.
 
-AI can accelerate form. AI does not determine why that form must exist.
+AI can accelerate form. AI does not decide why the form must exist.
 
-Black Paper changes here: from a record of machine acceleration into a record of responsibility hierarchy. The machine arranges possibility. The human brings the matter. Earth bears the consequence.
+Black Paper changes here: from a record of machine acceleration into a record of the hierarchy of responsibility. The machine arranges possibility. The human brings the matter. Earth bears the consequence.
 
-# Claim Registry
+## Claim Registry
 
 **C001:** LLM progress cannot be explained by hardware alone.  
-**Status:** REASONABLE INFERENCE  
-**Evidence Base:** ATOR working experience, BMHS canon, current LLM workflow observation.
+**Status:** REASONABLE INFERENCE.
 
-**C002:** The human user shapes technology through prompts, corrections, refusals, logs, and compiler construction.  
-**Status:** AUTHORIAL THEORY NODE, REASONABLE INFERENCE  
-**Evidence Base:** Open Call Compiler, Kritik Berbisik, Deep Drift, GitHub research logs.
+**C002:** Human users shape technological progress by testing, correcting, refusing, and extending tool use.  
+**Status:** WORKING HYPOTHESIS.
 
-**C003:** Higher model effort does not guarantee correct task execution.  
-**Status:** EXPERIENCE-BASED OBSERVATION  
-**Evidence Base:** ATOR QC observation of routing and tool-action failures.
+**C003:** Easier workflow can result from prior human compiler architecture rather than autonomous machine intelligence.  
+**Status:** EXPERIENCE-BASED OBSERVATION + REASONABLE INFERENCE.
 
-**C004:** LLM capability expansion may increase infrastructural and environmental burden.  
-**Status:** HYPOTHESIS, requires external source mapping  
-**Evidence Base:** Deep Drift LLM Earth Observatory program, pending data.
+**C004:** Higher model capability does not guarantee tool obedience, provenance fidelity, export fidelity, or canon fidelity.  
+**Status:** EXPERIENCE-BASED OBSERVATION.
 
-**C005:** Human removal from AI narratives is analytically defective.  
-**Status:** CONCEPTUAL CLAIM  
-**Evidence Base:** BMHS Human Sovereignty law, authorial theory.
+**C005:** LLM capability expansion may connect to environmental and material pressure only through identifiable infrastructural mechanisms.  
+**Status:** CAUSAL DISCIPLINE REQUIRED.
 
-# Audit Notes
+## Audit Notes
 
-**Connective opening audit:** no generated paragraph intentionally begins with a forbidden connector.  
-**Generated em dash audit:** zero generated em dash.  
-**Raw preservation:** user raw instruction preserved above without correction.  
-**Black Paper mode:** Node ID, Exact Raw Text, Constellation Group, Related Nodes, Repeating Signal, Archive Note included.  
-**Evidence limit:** environmental linkage remains marked as hypothesis until source mapping supplies data.
+**BMHS Indonesian Layer:** repaired toward Bahasa Melajoe-Hindia Synthetisch stratum surface with oe, tj, dj, nj, -nja, and older administrative pressure where functionally appropriate.  
+**English Layer:** retained as BMHS English Translation, not reauthorship.  
+**Em dash audit:** generated em dash count intended as zero.  
+**Connector-opening audit:** section paragraphs begin from object, actor, concept, evidence, or problem.  
+**Evidence audit:** claims remain theory-node claims unless supported by external source registry.  
+**Human approval:** pending.
 
-# Archive Note
+## Archive Note
 
-This node records a shift in Black Paper: AI progress is no longer examined only as technical acceleration. The human user enters as developmental force, correction infrastructure, authorship holder, and ethical pressure point. The machine may become faster. Human responsibility becomes harder to erase.
+Revisi ini mencatat satu kegagalan compiler jang penting: Bahasa Indonesia modern tidak boleh menyamar sebagai BMHS hanya karena beberapa kata lama ditempelkan. BMHS bukan kostum ejaan. BMHS adalah hubungan antara gangguan, perkara, lompatan, dugaan tandingan, bukti, bentuk, penolakan, provenance, dan keputusan manusia. Kesalahan versi 1.0 tetap berguna karena memperlihatkan tempat mesin masih malas: ia mengingat gagasan besar, tetapi luput pada lapisan bahasa jang justru menjadi tanda tangan.
 
 **D-ORIGIN | ATØRAI | ĀLT-MĀN | Eir'an | CHATJIPITI SINGH**
